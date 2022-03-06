@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese lamp
+* source:	https://sketchfab.com/3d-models/chinese-lamp-dc117aeb4902472a952989314aa75d60
+* author:	Coffeek (https://sketchfab.com/coffe0wolf)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese lamp" (https://sketchfab.com/3d-models/chinese-lamp-dc117aeb4902472a952989314aa75d60) by Coffeek (https://sketchfab.com/coffe0wolf) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

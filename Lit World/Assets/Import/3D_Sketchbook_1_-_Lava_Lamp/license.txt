@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Sketchbook 1 - Lava Lamp
+* source:	https://sketchfab.com/3d-models/3d-sketchbook-1-lava-lamp-d62e51c8f9ce4c7ab874cd5ae55435d2
+* author:	drodden (https://sketchfab.com/drodden)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Sketchbook 1 - Lava Lamp" (https://sketchfab.com/3d-models/3d-sketchbook-1-lava-lamp-d62e51c8f9ce4c7ab874cd5ae55435d2) by drodden (https://sketchfab.com/drodden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
